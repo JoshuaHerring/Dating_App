@@ -4,9 +4,8 @@ If you clone or download this repositiry after installing the dependencies with 
 
 It is a very simple app where you enter in some info about yourself and that info appears below. I wrote this app as a first step towards learning react native. I intend to expand upon this app and turn it into a full dating app one day with the assistance of my freind in business. All of the current content will be replaced with proper content that we discuss upon. 
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/IMXvgNBDyt4)
 
 # Development Environment
 
@@ -19,7 +18,7 @@ This app was made in the ide VsCode and I used react native and expo to build an
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+
 * [React Native Docs](https://reactnative.dev/)
 * [React Native Navigation docs](https://reactnative.dev/docs/navigation)
 
@@ -27,4 +26,6 @@ This app was made in the ide VsCode and I used react native and expo to build an
 
 * Incorporate multiple screens (1 for the inputs and 1 for the display)
 * Creat and official logo, branding and in depth plan for the whole app
+* integrate local storage to save data
+* integrate database to save data
 * Get code working on my friends laptop so he can learn and assist
